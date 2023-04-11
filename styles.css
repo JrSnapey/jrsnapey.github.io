@@ -240,7 +240,7 @@ iframe {
     position: absolute;
     left: 25px;
     bottom: calc(var(--safe-area-inset-bottom) + 20px);
-    font-size: 17px;
+    font-size: 16px;
 }
 #open-card-qr {
     position: absolute;
@@ -277,7 +277,7 @@ iframe {
 .card-info {
     transform: rotate(90deg);
     color: #000;
-    opacity: 1;
+    opacity: 1.2;
     position: absolute;
     right: calc(50% - 0.04 * var(--card-width));
     text-align: left;
